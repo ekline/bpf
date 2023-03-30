@@ -13,30 +13,32 @@ for what is part of eBPF and what is not.
 
 The bpf working group is initially tasked with documenting the existing
 state of the eBPF ecosystem, and a clear process for extensions,
-including initial extension that are widely useful and showcase the
-process.
+including initial extensions that are widely useful and showcase the
+process.  The working group shall not adopt new work until these
+documents have progressed to working group last call.
 
 The working group will produce one or more documents on the following
 work item topics:
 
 * The eBPF instruction set architecture (ISA) that defines the
-instructions and low-level virtual machine for eBPF programs.
+  instructions and low-level virtual machine for eBPF programs,
 
 * Verifier expectations and building blocks for allowing safe execution
-of untrusted eBPF programs
+  of untrusted eBPF programs,
 
 * the BPF Type Format (BTF) that defines debug information and
-introspection capabilities for eBPF programs
+  introspection capabilities for eBPF programs,
 
-* the eBPF bindings for the ELF executable file format
+* the eBPF bindings for the ELF executable file format,
 
-* the platform support ABI, including calling convention, linker requirements, and relocations
+* the platform support ABI, including calling convention, linker
+  requirements, and relocations,
 
 * Cross-platform map types allowing native data structure access from
-eBPF programs
+  eBPF programs,
 
 * Cross-platform eBPF program types that define the higher level
-execution environment for eBPF programs
+  execution environment for eBPF programs,
 
 * and an architecture and framework informational document.
 
