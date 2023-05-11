@@ -37,6 +37,8 @@ work item topics:
 * Cross-platform map types allowing native data structure access from
   eBPF programs,
 
+* Cross-platform helper functions, such as for manipulation of maps,
+
 * Cross-platform eBPF program types that define the higher level
   execution environment for eBPF programs,
 
