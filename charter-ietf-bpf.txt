@@ -19,10 +19,10 @@ documents have progressed to working group last call.
 The working group will produce one or more documents on the following
 work item topics:
 
-* The eBPF instruction set architecture (ISA) that defines the
+* the eBPF instruction set architecture (ISA) that defines the
   instructions and low-level virtual machine for eBPF programs,
 
-* Verifier expectations and building blocks for allowing safe execution
+* verifier expectations and building blocks for allowing safe execution
   of untrusted eBPF programs,
 
 * the BPF Type Format (BTF) that defines debug information and
@@ -33,12 +33,12 @@ work item topics:
 * the platform support ABI, including calling convention, linker
   requirements, and relocations,
 
-* Cross-platform map types allowing native data structure access from
+* cross-platform map types allowing native data structure access from
   eBPF programs,
 
-* Cross-platform helper functions, such as for manipulation of maps,
+* cross-platform helper functions, such as for manipulation of maps,
 
-* Cross-platform eBPF program types that define the higher level
+* cross-platform eBPF program types that define the higher level
   execution environment for eBPF programs,
 
 * and an architecture and framework informational document.
