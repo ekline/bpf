@@ -30,8 +30,8 @@ work item topics:
 
 * the eBPF bindings for the ELF executable file format,
 
-* the platform support ABI, including calling convention, linker
-  requirements, and relocations,
+* the platform support ABI (Application Binary Interface), including
+  calling convention, linker requirements, and relocations,
 
 * cross-platform map types allowing native data structure access from
   eBPF programs,
