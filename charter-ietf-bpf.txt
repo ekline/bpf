@@ -28,12 +28,6 @@ work item topics:
 * the BPF Type Format (BTF) that defines debug information and
   introspection capabilities for BPF programs,
 
-* the BPF bindings for the ELF (Executable and Linkable Format)
-  executable file format,
-
-* the platform support ABI (Application Binary Interface), including
-  calling convention, linker requirements, and relocations,
-
 * cross-platform map types allowing native data structure access from
   BPF programs,
 
