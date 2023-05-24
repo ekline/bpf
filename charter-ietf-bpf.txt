@@ -19,30 +19,27 @@ documents have progressed to working group last call.
 The working group will produce one or more documents on the following
 work item topics:
 
-* the BPF instruction set architecture (ISA) that defines the
+* [PS] the BPF instruction set architecture (ISA) that defines the
   instructions and low-level virtual machine for BPF programs,
 
-* verifier expectations and building blocks for allowing safe execution
+* [I] verifier expectations and building blocks for allowing safe execution
   of untrusted BPF programs,
 
-* the BPF Type Format (BTF) that defines debug information and
+* [PS] the BPF Type Format (BTF) that defines debug information and
   introspection capabilities for BPF programs,
 
-* the BPF bindings for the ELF (Executable and Linkable Format)
-  executable file format,
+* one or more Informational documents that recommend conventions and
+  guidelines for producing portable BPF program binaries
 
-* the platform support ABI (Application Binary Interface), including
-  calling convention, linker requirements, and relocations,
-
-* cross-platform map types allowing native data structure access from
+* [PS] cross-platform map types allowing native data structure access from
   BPF programs,
 
-* cross-platform helper functions, such as for manipulation of maps,
+* [PS] cross-platform helper functions, such as for manipulation of maps,
 
-* cross-platform BPF program types that define the higher level
+* [PS] cross-platform BPF program types that define the higher level
   execution environment for BPF programs,
 
-* and an architecture and framework informational document.
+* and an architecture and framework Informational document.
 
 The BPF working group shall actively engage the BPF Foundation
 steering committee and the broader implementation community to
