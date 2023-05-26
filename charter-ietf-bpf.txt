@@ -28,8 +28,8 @@ work item topics:
 * [PS] the BPF Type Format (BTF) that defines debug information and
   introspection capabilities for BPF programs,
 
-* one or more Informational documents that recommend conventions and
-  guidelines for producing portable BPF program binaries
+* [I] one or more documents that recommend conventions and
+  guidelines for producing portable BPF program binaries,
 
 * [PS] cross-platform map types allowing native data structure access from
   BPF programs,
@@ -37,9 +37,9 @@ work item topics:
 * [PS] cross-platform helper functions, such as for manipulation of maps,
 
 * [PS] cross-platform BPF program types that define the higher level
-  execution environment for BPF programs,
+  execution environment for BPF programs, and
 
-* and an architecture and framework Informational document.
+* [I] an architecture and framework document.
 
 The BPF working group shall actively engage the BPF Foundation
 steering committee and the broader implementation community to
