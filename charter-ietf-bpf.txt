@@ -1,8 +1,9 @@
 BPF
 
 eBPF (which is no longer an acronym for anything), also commonly referred
-to as BPF, is a technology with origins in the Linux kernel that can safely
-run programs in a privileged context such as the operating system kernel.
+to as BPF, is a technology with origins in the Linux kernel that can run
+untrusted programs in a privileged context such as the operating system
+kernel.
 
 BPF is increasingly being used beyond just the Linux kernel, with
 implementations in network interface cards, Microsoft Windows, etc.
