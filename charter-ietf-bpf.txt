@@ -13,7 +13,7 @@ state of the BPF ecosystem, and a clear process for extensions,
 including initial extensions that are widely useful and showcase the
 process.  The working group will not adopt work focused on new versions
 or extensions until all documents required to capture the existing goals,
-particularly those in the bullets below, have progressed to IESG approval.
+particularly those in the bullets below, have completed IESG approval.
 
 The working group will produce one or more documents on the following
 work item topics:
