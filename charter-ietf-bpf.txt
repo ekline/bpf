@@ -11,8 +11,10 @@ implementations in network interface cards, Microsoft Windows, etc.
 The BPF working group is initially tasked with documenting the existing
 state of the BPF ecosystem, and a clear process for extensions,
 including initial extensions that are widely useful and showcase the
-process.  The working group shall not adopt new work until these
-documents have progressed to working group last call.
+process.  The working group will not adopt work focused on new versions
+or extensions until all documents required to capture the existing goals,
+particularly those in the bullets below, have progressed to working
+group last call.
 
 The working group will produce one or more documents on the following
 work item topics:
