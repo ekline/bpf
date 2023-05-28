@@ -8,9 +8,6 @@ kernel.
 BPF is increasingly being used beyond just the Linux kernel, with
 implementations in network interface cards, Microsoft Windows, etc.
 
-There is currently no formal standard for BPF and no clear scope
-for what is part of BPF and what is not.
-
 The BPF working group is initially tasked with documenting the existing
 state of the BPF ecosystem, and a clear process for extensions,
 including initial extensions that are widely useful and showcase the
