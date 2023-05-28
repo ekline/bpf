@@ -16,7 +16,8 @@ or extensions until all documents required to capture the existing goals,
 particularly those in the bullets below, have completed IESG approval.
 
 The working group will produce one or more documents on the following
-work item topics:
+work item topics (with intended document status annotations, e.g.
+[PS] Proposed Standard and [I] Informational):
 
 * [PS] the BPF instruction set architecture (ISA) that defines the
   instructions and low-level virtual machine for BPF programs,
